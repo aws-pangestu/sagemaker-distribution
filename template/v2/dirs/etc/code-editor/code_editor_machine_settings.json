@@ -1,4 +1,10 @@
 {
     "python.terminal.activateEnvironment": false,
-    "python.defaultInterpreterPath": "/opt/conda/bin/python"
+    "python.defaultInterpreterPath": "/opt/conda/bin/python",
+    "workbench.colorCustomizations": {
+        "seditor.selectionBackground": "#0000ff",
+        "seditorError.foreground": "#00000000",
+        "seditorWarning.foreground": "#00000000",
+        "seditorInfo.foreground": "#00000000"
+    }
 }
